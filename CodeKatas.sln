@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANeedleInTheHaystack", "ANe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{9BA0D203-FDEF-44FB-A213-477B61815557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsDecoder", "RomanNumeralsDecoder\RomanNumeralsDecoder.csproj", "{F5447492-0229-421E-B64C-1188F864560D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9BA0D203-FDEF-44FB-A213-477B61815557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA0D203-FDEF-44FB-A213-477B61815557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA0D203-FDEF-44FB-A213-477B61815557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5447492-0229-421E-B64C-1188F864560D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5447492-0229-421E-B64C-1188F864560D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5447492-0229-421E-B64C-1188F864560D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5447492-0229-421E-B64C-1188F864560D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

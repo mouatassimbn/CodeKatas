@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANeedleInTheHaystack", "ANeedleInTheHaystack\ANeedleInTheHaystack.csproj", "{212EEDD3-F9A9-4C6B-BA02-136DB0DE8BA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{9BA0D203-FDEF-44FB-A213-477B61815557}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{212EEDD3-F9A9-4C6B-BA02-136DB0DE8BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212EEDD3-F9A9-4C6B-BA02-136DB0DE8BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212EEDD3-F9A9-4C6B-BA02-136DB0DE8BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA0D203-FDEF-44FB-A213-477B61815557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA0D203-FDEF-44FB-A213-477B61815557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA0D203-FDEF-44FB-A213-477B61815557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA0D203-FDEF-44FB-A213-477B61815557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
